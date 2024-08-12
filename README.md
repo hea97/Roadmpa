@@ -4,7 +4,7 @@
 https://roadmap.sh/devops
 
 ## DE
-https://roadmap.sh/ai/data-engineer-1z9bq
+https://github.com/datastacktv/data-engineer-roadmap
 
 ## DBA
 https://roadmap.sh/ai/database-administration-dba-pbztb
