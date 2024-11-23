@@ -1,4 +1,4 @@
-https://github.com/datastacktv/data-engineer-roadmap
+https://github.com/datastacktv/data-engineer-roadmap  
 위에 있는 roadmap을 영어에서 한국어로 번역해보았다.
 
 
